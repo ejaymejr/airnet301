@@ -1,0 +1,12 @@
+aws_key=AWS KEY ID
+aws_secret_key=AWS SECRET KEY
+db_ip=10.10.1.249
+db_user=iot
+db_password=
+db_database=snapps_iot
+
+device_name=NoName
+pointThreeThres=99999
+pointFiveThres=500
+consecAlert=3
+resistorType=250
